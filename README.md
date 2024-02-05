@@ -14,9 +14,22 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgyYWVmZjVzMWh6eHF5dXVlb3FwbmVzcWU5YWxqbnAyMmp4aWxzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="600" height="300" />
+</div>
 
-### Hi there 👋
+---
 
+### 👨‍💻 About Me :
+Hello, my name is Marc Villevieille. I'm a Frontend Developper from France, 🇫🇷.
+
+I have a huge interest in web development <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5NTQ5eDN4N2FpdHg0MHU3aDM5am1sMG5peTVsdWgxMm0ybTJkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="30" /> and bug bounty <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hmajVqanhnZWVwemFtaGk2bnllZWM0dHVsODliNzBoenRhYXg4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="30" /> !
+
+- 🔭 I'm a Web Integrator / Frontend Developer.
+- 🌱 I'm currently learning NextJS.
+- :zap: In my free time, I do some labs on PortSwigger Academy or CTF and I also learn Korean.
+- :mailbox: How to reach me : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-villevieille/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/Naohyo_)
+- 😅 Fun fact : For no french speakers, the litteral traduction of my family name in English means "old city 😅".
 <!--
 **N40h/N40h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
